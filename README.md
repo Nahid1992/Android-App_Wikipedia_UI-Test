@@ -2,7 +2,7 @@
 
 In this project a GUI test was done on a popular Android App (Wikipedia) using Android Studio 2.2.2 and a framework Espreso Test.
 
-## Listed below is the name of tests that was created for the GUI testing using Espresso:
+## Lists of Tests:
 
 ### 1.	Test_History: 
 One assertion was made in this test class. First, the application visits a page and checks the “History” if it was added or not.
